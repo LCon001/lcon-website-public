@@ -1,0 +1,128 @@
+User-Agent: *
+Allow: /
+Disallow: /api/
+Disallow: /_next/
+Disallow: /de/produkte/
+Disallow: /en/produkte/
+
+User-Agent: GPTBot
+Allow: /
+Disallow: /api/
+Disallow: /_next/
+Disallow: /de/produkte/
+Disallow: /en/produkte/
+
+User-Agent: OAI-SearchBot
+Allow: /
+Disallow: /api/
+Disallow: /_next/
+Disallow: /de/produkte/
+Disallow: /en/produkte/
+
+User-Agent: ChatGPT-User
+Allow: /
+Disallow: /api/
+Disallow: /_next/
+Disallow: /de/produkte/
+Disallow: /en/produkte/
+
+User-Agent: ClaudeBot
+Allow: /
+Disallow: /api/
+Disallow: /_next/
+Disallow: /de/produkte/
+Disallow: /en/produkte/
+
+User-Agent: Claude-Web
+Allow: /
+Disallow: /api/
+Disallow: /_next/
+Disallow: /de/produkte/
+Disallow: /en/produkte/
+
+User-Agent: anthropic-ai
+Allow: /
+Disallow: /api/
+Disallow: /_next/
+Disallow: /de/produkte/
+Disallow: /en/produkte/
+
+User-Agent: PerplexityBot
+Allow: /
+Disallow: /api/
+Disallow: /_next/
+Disallow: /de/produkte/
+Disallow: /en/produkte/
+
+User-Agent: Perplexity-User
+Allow: /
+Disallow: /api/
+Disallow: /_next/
+Disallow: /de/produkte/
+Disallow: /en/produkte/
+
+User-Agent: Google-Extended
+Allow: /
+Disallow: /api/
+Disallow: /_next/
+Disallow: /de/produkte/
+Disallow: /en/produkte/
+
+User-Agent: Applebot-Extended
+Allow: /
+Disallow: /api/
+Disallow: /_next/
+Disallow: /de/produkte/
+Disallow: /en/produkte/
+
+User-Agent: Bytespider
+Allow: /
+Disallow: /api/
+Disallow: /_next/
+Disallow: /de/produkte/
+Disallow: /en/produkte/
+
+User-Agent: CCBot
+Allow: /
+Disallow: /api/
+Disallow: /_next/
+Disallow: /de/produkte/
+Disallow: /en/produkte/
+
+User-Agent: cohere-ai
+Allow: /
+Disallow: /api/
+Disallow: /_next/
+Disallow: /de/produkte/
+Disallow: /en/produkte/
+
+User-Agent: FacebookBot
+Allow: /
+Disallow: /api/
+Disallow: /_next/
+Disallow: /de/produkte/
+Disallow: /en/produkte/
+
+User-Agent: Diffbot
+Allow: /
+Disallow: /api/
+Disallow: /_next/
+Disallow: /de/produkte/
+Disallow: /en/produkte/
+
+User-Agent: ImagesiftBot
+Allow: /
+Disallow: /api/
+Disallow: /_next/
+Disallow: /de/produkte/
+Disallow: /en/produkte/
+
+User-Agent: Amazonbot
+Allow: /
+Disallow: /api/
+Disallow: /_next/
+Disallow: /de/produkte/
+Disallow: /en/produkte/
+
+Host: https://liebhart-consulting.at
+Sitemap: https://liebhart-consulting.at/sitemap.xml

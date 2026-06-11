@@ -1,0 +1,46 @@
+# Liebhart Consulting
+
+> AI & Software projects that work. From architecture to finished product. Consulting, training, and development in custom software development.
+
+Liebhart Consulting (DI Kevin Liebhart, Tristach, Austria) — Architect-as-a-Service for AI and software projects: consulting, development, and training from architecture through delivery.
+
+**Language:** English. German summary: [llms-de.txt](https://liebhart-consulting.at/llms-de.txt)
+
+**Contact:** contact@liebhart-consulting.at | Booking: https://calendar.app.google/WXjafe2L6EMspivw6
+
+## Main pages
+
+- [Homepage](https://liebhart-consulting.at/en/): AI & Software projects that work. — From architecture to finished product. As your central point of contact, I guide your project from the first idea to successful launch – strategically, technically, and with clear communication.
+
+## Services
+
+- **Consulting**: 15+ years of experience help in making the right technical decisions to use your software profitably. (Reduce ongoing costs (Operations & Maintenance); Increase value creation with AI; Increase productivity with automation)
+- **Development**: Clean, scalable software development, from the first line of code to the finished product with a focus on your business value. (Custom Software Development; Modernization of existing software; GDPR-compliant use of AI)
+- **Training**: Training tailored to your company enables development teams to work more cost-effectively, faster, and with higher quality. (Reduce development cost by 30% through AI; No operating costs with ZeroOps architecture; 3x higher team productivity through automation)
+
+## Approach
+
+**Digital Generalist** — A Bridge Between Business and Technology
+
+In a world full of specialists, I'm the connecting factor. As a Digital Generalist, I understand both sides – business requirements and technical possibilities. This enables me to act as your central point of contact and ensure everyone is pulling in the same direction.
+
+## Success Stories
+
+- [Cloud costs permanently reduced](https://liebhart-consulting.at/en/cloud-cost-optimization/): Consulting & Training. How just 10 lines of source code can save €25k/year and further measures for optimizing cloud and software architecture. Results: -€150k cloud costs / year, Google Cloud Platform, Microsoft Azure.
+  - High cloud costs are often the result of poor architecture decisions at the beginning of a software project. Infrastructure costs grow faster than generated revenue, thereby destroying the business model. Here are three concrete examples of massive savings.
+- [SaaS Model as Revenue Multiplier](https://liebhart-consulting.at/en/zero-ops/): Consulting & Development. Modernization of a 10-year-old application enabled serving 10x more customers with the same team size. Results: 10x more customers, Maintenance-free infrastructure, 3x higher team velocity.
+  - Intelligent architecture allows any software to scale arbitrarily and fully automatically, incurring costs only when your customers actually use it. The Software-as-a-Service (SaaS) model enables serving 10x more customers with the same team size. Furthermore, an operations team was intentionally omitted, creating a sustainable and maintenance-free ZeroOps infrastructure using a cloud-first strategy.
+
+## Contact & booking
+
+- Schedule a no-obligation introductory call and we'll discuss how I can support you.
+- Email: contact@liebhart-consulting.at
+- [Book a Meeting](https://calendar.app.google/WXjafe2L6EMspivw6)
+
+## Optional
+
+- [Imprint](https://liebhart-consulting.at/en/impressum/): Mandatory information according to § 5 ECG and § 25 MedienG for Liebhart Consulting.
+- [Privacy Policy](https://liebhart-consulting.at/en/datenschutz/): GDPR-compliant privacy policy for Liebhart Consulting. Information on data processing, your rights, and contact options.
+- [German website](https://liebhart-consulting.at/de/): KI & Softwareprojekte, die funktionieren. Von der Architektur bis zum fertigen Produkt. Beratung, Training und Entwicklung in der individuellen Softwareentwicklung.
+- [llms.txt (multilingual index)](https://liebhart-consulting.at/llms.txt)
+- [sitemap.xml](https://liebhart-consulting.at/sitemap.xml)
