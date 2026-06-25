@@ -1,0 +1,36 @@
+# Liebhart Consulting
+
+> KI & Softwareprojekte, die funktionieren. Von der Architektur bis zum fertigen Produkt. Beratung, Training und Entwicklung in der individuellen Softwareentwicklung.
+
+Bilingual website (German primary, English secondary) for Liebhart Consulting — AI & software consulting, custom development, and the **AI Station** on-premise AI product (Austria, GDPR-focused).
+
+Use the language-specific files below for full curated content maps. Canonical domain: https://liebhart-consulting.at
+
+## Languages / Sprachen
+
+- [Deutsch — llms-de.txt](https://liebhart-consulting.at/llms-de.txt): Vollständige Inhaltsübersicht auf Deutsch
+- [English — llms-en.txt](https://liebhart-consulting.at/llms-en.txt): Full content map in English
+
+## Key pages
+
+- [Homepage DE](https://liebhart-consulting.at/de/): KI & Softwareprojekte, die funktionieren.
+- [Homepage EN](https://liebhart-consulting.at/en/): AI & Software projects that work.
+- [AI Station DE](https://liebhart-consulting.at/de/produkte/ai-station/): Plug-and-Play KI-Hardware auf Ihrem Schreibtisch: sichere lokale KI, Micro-Apps für Büroabläufe, Office-Integration und verschlüsseltes Backup.
+- [AI Station EN](https://liebhart-consulting.at/en/produkte/ai-station/): Plug-and-play AI hardware on your desk: secure local AI, AI apps for office workflows, Office integration, and encrypted backup.
+
+## Products
+
+- **AI Station**: 100% local AI as managed service — plug-and-play hardware on your desk, AI apps for office workflows, Microsoft 365 / Google Workspace integration, encrypted backup. Planned delivery Q3 2026.
+
+## Services
+
+- Consulting, development, training for AI & software projects (Architect-as-a-Service)
+
+## Optional
+
+- [Sitemap](https://liebhart-consulting.at/sitemap.xml)
+- [robots.txt](https://liebhart-consulting.at/robots.txt)
+- [Cloud Kosten dauerhaft gesenkt (de)](https://liebhart-consulting.at/de/cloud-cost-optimization/): Wie nur 10 Zeilen Source-Code 25k€ / Jahr einsparen können und weitere Maßnahmen zur Optimierung von Cloud- und Softwarearchitektur.
+- [SaaS-Modell als Umsatzmultiplikator (de)](https://liebhart-consulting.at/de/zero-ops/): Modernisierung einer 10 Jahre alten Anwendung ermöglichte es, 10x mehr Kunden mit gleicher Teamgröße zu bedienen.
+- [Cloud costs permanently reduced (en)](https://liebhart-consulting.at/en/cloud-cost-optimization/): How just 10 lines of source code can save €25k/year and further measures for optimizing cloud and software architecture.
+- [SaaS Model as Revenue Multiplier (en)](https://liebhart-consulting.at/en/zero-ops/): Modernization of a 10-year-old application enabled serving 10x more customers with the same team size.

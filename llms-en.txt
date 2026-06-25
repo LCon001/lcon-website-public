@@ -1,0 +1,102 @@
+# Liebhart Consulting
+
+> AI & Software projects that work. From architecture to finished product. Consulting, training, and development in custom software development.
+
+Liebhart Consulting (DI Kevin Liebhart, Tristach, Austria) — Architect-as-a-Service for AI and software projects: consulting, development, and training from architecture through delivery.
+
+**Language:** English. German summary: [llms-de.txt](https://liebhart-consulting.at/llms-de.txt)
+
+**Contact:** contact@liebhart-consulting.at | Booking: https://calendar.app.google/WXjafe2L6EMspivw6
+
+## Main pages
+
+- [Homepage](https://liebhart-consulting.at/en/): AI & Software projects that work. — From architecture to finished product. As your central point of contact, I guide your project from the first idea to successful launch – strategically, technically, and with clear communication.
+- [AI Station](https://liebhart-consulting.at/en/produkte/ai-station/): Plug-and-play AI hardware on your desk: secure local AI, AI apps for office workflows, Office integration, and encrypted backup.
+
+## Services
+
+- **Consulting**: 15+ years of experience help in making the right technical decisions to use your software profitably. (Reduce ongoing costs (Operations & Maintenance); Increase value creation with AI; Increase productivity with automation)
+- **Development**: Clean, scalable software development, from the first line of code to the finished product with a focus on your business value. (Custom Software Development; Modernization of existing software; GDPR-compliant use of AI)
+- **Training**: Training tailored to your company enables development teams to work more cost-effectively, faster, and with higher quality. (Reduce development cost by 30% through AI; No operating costs with ZeroOps architecture; 3x higher team productivity through automation)
+
+## Approach
+
+**Digital Generalist** — A Bridge Between Business and Technology
+
+In a world full of specialists, I'm the connecting factor. As a Digital Generalist, I understand both sides – business requirements and technical possibilities. This enables me to act as your central point of contact and ensure everyone is pulling in the same direction.
+
+## Products
+
+### AI Station. (Local. Secure. Turnkey.)
+
+100% local AI as a managed service.
+
+We automate the routine and set you and your team free. Use our AI Station for internal knowledge management, customer communication, and process automation.
+
+**Planned delivery Q3 2026**
+
+- [AI Station | Local AI for Your Office](https://liebhart-consulting.at/en/produkte/ai-station/): Plug-and-play AI hardware on your desk: secure local AI, AI apps for office workflows, Office integration, and encrypted backup.
+
+**Packages:**
+- **AI Station – Pro** (The affordable AI workstation.): On request
+  - Choose your license – Basic License: On request
+  - Choose your license – Premium License: On request
+- **AI Station – Flex** (The powerhouse with NVIDIA GPUs.): On request
+  - Choose your license – Premium: On request
+
+**Benefits:**
+- **Plug & Play**: Plug in and it works—instead of months-long IT projects with unclear outcomes. AI Station ships preconfigured for productive use.
+- **Security & Compliance**: Local AI in your hands and on your desk. AI Station also ensures compliance with GDPR and the EU AI Act, so you can use AI apps with confidence.
+- **AI-Powered Automation**: Automate office workflows with AI apps that break tasks into logical, traceable steps—reliable and optimized for smaller AI models.
+- **Office Support**: Direct integration with Google Workspace or Microsoft 365. Optimized for working with and generating Word documents, Excel files, CSV, and PDF.
+- **Integrability**: Your own data, additional interfaces (ERP, CRM, REST API, SQL, …), or build new AI apps—easily yourself with AI-assisted chat or via our expert service.
+- **Secure Backup**: Fully encrypted backup—so data is not lost if hardware fails.
+
+**AI Apps:**
+Build yourself or let us develop — AI Station was designed to be open to your processes. You have two ways to create new automations.
+- **Build automations yourself** — You yourself (AI-assisted chat): Create your own AI apps via the built-in chat—no programming skills required. Connect data sources, define workflows, and test directly in your environment.
+  - AI-assisted app creation via chat
+  - Connect your own interfaces and data sources
+  - Ideal for simple automations and quick experiments
+- **Commission Professional Service** — We for you (Support Package): Leave the development and operation to us. We analyze your tasks, build tailored AI apps from them, and provide ongoing support—with affordable support packages starting at just 10 hours.
+  - Affordable support packages starting at just 10 hours
+  - Custom AI apps for your business processes
+  - Integration with ERP, CRM, email, and more
+  - Development, maintenance, and evolution from a single partner
+
+**Use Cases:**
+- **Corporate Memory** — The end of endless searches for documents and information.
+  - The challenge: You have hundreds or thousands of documents (quality manuals, ISO standards, HR policies, customer contracts, etc.), but nobody finds the right information quickly.
+  - The solution: We connect your documents to the local AI Station. Your staff simply ask via chat: "How do I enter my travel times for a business trip?" or "What are the fire safety requirements per ÖNORM for our warehouse?" and get the exact answer with a link to the source document. Perfect for quick research and employee onboarding.
+- **The Data Privacy Dilemma** — AI without US corporations.
+  - The challenge: You want to simplify workflows with AI, but privacy, GDPR, or the EU AI Act worry you? You want to use AI's potential without starting from scratch and having to learn everything first?
+  - The solution: Our AI Station—a closed, 100% local AI platform—combined with our expert service provides the answer. We analyze your tasks and build targeted AI apps that handle your specific routine work.
+- **Process & Deadline Monitoring** — Never chase missing documents again.
+  - The challenge: Real processes stall because external inputs are missing (e.g. receipts from clients, plans from subcontractors, tenant self-disclosures). Follow-ups consume enormous time.
+  - The solution: An AI app automatically checks the status of customer or employee cases via various interfaces (e.g. email, CRM, ERP, …) against defined checklists. If documents are missing, the system generates and sends polite, personalized reminders. Your back office is massively relieved.
+- **24/7 Support** — Instant answers to standard questions.
+  - The challenge: Your phone rings constantly or your inbox overflows with the same organizational questions from customers, partners, or patients.
+  - The solution: A local AI app answers technical and organizational routine questions around the clock. "What format must I use for the application?", "Where is the upload portal?", or "What documents should I bring to the first meeting?" Your strategic and expert advice remains with your team.
+
+**Reserve now:** Secure your AI Station for planned delivery from Q3 2026. Non-binding reservation—we will follow up with next steps. Form: https://forms.gle/UxoRBBrUt8fEBsrn9
+
+## Success Stories
+
+- [Cloud costs permanently reduced](https://liebhart-consulting.at/en/cloud-cost-optimization/): Consulting & Training. How just 10 lines of source code can save €25k/year and further measures for optimizing cloud and software architecture. Results: -€150k cloud costs / year, Google Cloud Platform, Microsoft Azure.
+  - High cloud costs are often the result of poor architecture decisions at the beginning of a software project. Infrastructure costs grow faster than generated revenue, thereby destroying the business model. Here are three concrete examples of massive savings.
+- [SaaS Model as Revenue Multiplier](https://liebhart-consulting.at/en/zero-ops/): Consulting & Development. Modernization of a 10-year-old application enabled serving 10x more customers with the same team size. Results: 10x more customers, Maintenance-free infrastructure, 3x higher team velocity.
+  - Intelligent architecture allows any software to scale arbitrarily and fully automatically, incurring costs only when your customers actually use it. The Software-as-a-Service (SaaS) model enables serving 10x more customers with the same team size. Furthermore, an operations team was intentionally omitted, creating a sustainable and maintenance-free ZeroOps infrastructure using a cloud-first strategy.
+
+## Contact & booking
+
+- Schedule a no-obligation introductory call and we'll discuss how I can support you.
+- Email: contact@liebhart-consulting.at
+- [Book a Meeting](https://calendar.app.google/WXjafe2L6EMspivw6)
+
+## Optional
+
+- [Imprint](https://liebhart-consulting.at/en/impressum/): Mandatory information according to § 5 ECG and § 25 MedienG for Liebhart Consulting.
+- [Privacy Policy](https://liebhart-consulting.at/en/datenschutz/): GDPR-compliant privacy policy for Liebhart Consulting. Information on data processing, your rights, and contact options.
+- [German website](https://liebhart-consulting.at/de/): KI & Softwareprojekte, die funktionieren. Von der Architektur bis zum fertigen Produkt. Beratung, Training und Entwicklung in der individuellen Softwareentwicklung.
+- [llms.txt (multilingual index)](https://liebhart-consulting.at/llms.txt)
+- [sitemap.xml](https://liebhart-consulting.at/sitemap.xml)

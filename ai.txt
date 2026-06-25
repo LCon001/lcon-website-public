@@ -1,0 +1,12 @@
+# ai.txt — Liebhart Consulting
+
+This site follows the llms.txt convention for AI-readable site maps.
+
+llms.txt (index): https://liebhart-consulting.at/llms.txt
+llms-de.txt: https://liebhart-consulting.at/llms-de.txt
+llms-en.txt: https://liebhart-consulting.at/llms-en.txt
+
+Policy: Public marketing and product pages may be used for AI search and answers (retrieval).
+Contact for licensing or training use: contact@liebhart-consulting.at
+
+Sitemap: https://liebhart-consulting.at/sitemap.xml

@@ -1,0 +1,102 @@
+# Liebhart Consulting
+
+> KI & Softwareprojekte, die funktionieren. Von der Architektur bis zum fertigen Produkt. Beratung, Training und Entwicklung in der individuellen Softwareentwicklung.
+
+Liebhart Consulting (DI Kevin Liebhart, Tristach, Österreich) — Architect-as-a-Service für KI- und Softwareprojekte: Beratung, Entwicklung und Training von der Architektur bis zum fertigen Produkt.
+
+**Sprache:** Deutsch (Primärsprache). Englische Zusammenfassung: [llms-en.txt](https://liebhart-consulting.at/llms-en.txt)
+
+**Kontakt:** contact@liebhart-consulting.at | Termin: https://calendar.app.google/WXjafe2L6EMspivw6
+
+## Hauptseiten
+
+- [Startseite](https://liebhart-consulting.at/de/): KI & Softwareprojekte, die funktionieren. — Von der Architektur bis zum fertigen Produkt. Als zentraler Ansprechpartner begleite ich Ihr Projekt von der ersten Idee bis zum erfolgreichen Launch – strategisch, technisch und mit klarer Kommunikation.
+- [AI Station](https://liebhart-consulting.at/de/produkte/ai-station/): Plug-and-Play KI-Hardware auf Ihrem Schreibtisch: sichere lokale KI, Micro-Apps für Büroabläufe, Office-Integration und verschlüsseltes Backup.
+
+## Leistungen
+
+- **Beratung**: 15+ Jahre an Erfahrung helfen dabei, die richtigen technischen Entscheidungen zu treffen, um Ihre Software gewinnbringend einzusetzen. (Senken laufender Kosten (Betrieb & Wartung); Wertschöpfung steigern mit KI; Produktivität steigern mit Automatisierung)
+- **Entwicklung**: Saubere, skalierbare Software Entwicklung, von der ersten Code-Zeile bis zum fertigen Produkt mit Fokus auf Ihren Business Value. (Entwicklung von Individualsoftware; Modernisierung bestehender Software; DSGVO-konformer Einsatz von KI)
+- **Training**: An Ihr Unternehmen angepasste Schulungen befähigen Entwicklerteams günstiger, schneller und qualitativ hochwertiger zu arbeiten. (Entwicklungskosten um 30% reduzieren mit KI; Keine Betriebskosten mit ZeroOps Architektur; 3x höhere Team-Produktivität durch Automatisierung)
+
+## Ansatz
+
+**Digitaler Generalist** — Eine Brücke zwischen Business und Technik
+
+In einer Welt voller Spezialisten braucht es Übersetzer. Als Digitaler Generalist verstehe ich beide Seiten – die geschäftlichen Anforderungen und die technischen Möglichkeiten. Das ermöglicht mir, als Ihr zentraler Ansprechpartner zu fungieren und sicherzustellen, dass alle am selben Strang ziehen.
+
+## Produkte
+
+### AI Station. (Lokal. Sicher. Schlüsselfertig.)
+
+100% lokale KI als Managed Service.
+
+Wir automatisieren die Routine und spielen Sie und Ihr Team wieder frei. Nutzen Sie unsere AI Station für internes Wissensmanagement, Kundenkommunikation und Prozessautomatisierung.
+
+**Geplante Auslieferung Q3 2026**
+
+- [AI Station | Lokale KI für Ihr Büro](https://liebhart-consulting.at/de/produkte/ai-station/): Plug-and-Play KI-Hardware auf Ihrem Schreibtisch: sichere lokale KI, Micro-Apps für Büroabläufe, Office-Integration und verschlüsseltes Backup.
+
+**Pakete:**
+- **AI Station – Pro** (Die günstige KI Workstation.): Auf Anfrage
+  - Passende Lizenz wählen – Basis Lizenz: Auf Anfrage
+  - Passende Lizenz wählen – Premium Lizenz: Auf Anfrage
+- **AI Station – Flex** (Das Power-House mit NVIDIA GPUs.): Auf Anfrage
+  - Passende Lizenz wählen – Premium: Auf Anfrage
+
+**Vorteile:**
+- **Plug & Play**: Einstecken und funktioniert – statt monatelangem IT-Projekt mit unklarem Ergebnis. Die AI Station ist für den produktiven Einsatz vorkonfiguriert.
+- **Sicherheit & Compliance**: Lokale KI in Ihren Händen und auf Ihrem Schreibtisch. Zusätzlich gewährt die AI Station die Einhaltung von DSGVO und EU AI Act, damit Sie sorgenfrei KI Apps nutzen können.
+- **KI-gestützte Automatisierung**: Automatisieren Sie Büroabläufe mit KI Apps, die Aufgaben in logische, nachvollziehbare Schritte herunterbrechen – zuverlässig und optimiert für kleinere KI-Modelle.
+- **Office Unterstützung**: Direkte Integration mit Google Workspace oder Microsoft 365. Optimiert für Arbeiten und Generieren von Word Dokumenten, Excel Dateien, CSV und PDF.
+- **Integrierbarkeit**: Eigene Daten, zusätzliche Schnittstellen (ERP, CRM, REST API, SQL , ...) oder neue KI Apps bauen – ganz einfach selbst mit KI-gestütztem Chat oder über unseren Expert Service.
+- **Sicheres Backup**: Voll verschlüsseltes Backup – damit Daten bei Hardwareproblemen nicht verloren gehen.
+
+**KI Apps:**
+Selbst bauen oder mit uns entwickeln lassen — Die AI Station wurde konzipiert um offen für Ihre Prozesse zu sein. Sie haben zwei Wege neue Automatisierungen zu erstellen.
+- **Automatisierungen selbst bauen** — Sie selbst (KI-gestützter Chat): Legen Sie eigene KI Apps über den integrierten Chat an – ganz ohne Programmierkenntnisse. Verbinden Sie Datenquellen, definieren Sie Abläufe und testen Sie direkt in Ihrer Umgebung.
+  - KI-gestützte App-Erstellung per Chat
+  - Eigene Schnittstellen und Datenquellen anbinden
+  - Ideal für einfache Automatisierungen und schnelle Experimente
+- **Professional Service beauftragen** — Wir für Sie (Support Paket): Überlassen Sie uns die Entwicklung und den Betrieb. Wir analysieren Ihre Aufgaben, entwickeln daraus maßgeschneiderte KI Apps und betreuen diese laufend – mit günstigen Support Paketen bereits ab 10 Stunden.
+  - Günstige Support Pakete bereits ab 10 Stunden
+  - Individuelle KI Apps für Ihre Fachprozesse
+  - Anbindung an ERP, CRM, E-Mail und mehr
+  - Entwicklung, Wartung und Weiterentwicklung aus einer Hand
+
+**Anwendungsfälle:**
+- **Das Unternehmens Gedächtnis** — Das Ende der endlosen Suche nach Dokumenten und Informationen.
+  - Problemstellung: Sie haben hunderte oder tausende Dokumente (Qualitätshandbücher, ISO-Normen, HR-Richtlinien, Kundenverträge, etc.), aber niemand findet schnell die richtige Information.
+  - Lösung: Wir binden Ihre Dokumente an die lokale AI Station an. Ihre Mitarbeiter fragen einfach per Chat: „Wie muss ich meine Reisezeiten für die Dienstreise eintragen?" oder „Was sind die Brandschutzvorgaben nach ÖNORM für unser Lager?" und erhalten sofort die exakte Antwort inklusive Link zum Quelldokument. Perfekt für schnelle Recherchen und die Mitarbeiter Einschulung.
+- **Der Datenschutz-Konflikt** — KI ohne US Konzerne.
+  - Problemstellung: Sie möchten Arbeitsabläufe mit KI vereinfachen, doch Datenschutz, DSGVO oder EU AI Act bereiten Ihnen Sorgen? Sie möchten die Möglichkeiten der KI nutzen, aber ohne von null zu beginnen und sich erst einarbeiten zu müssen?
+  - Lösung: Unsere AI Station, eine geschlossene und 100% lokale KI-Plattform, kombiniert mit unserem Experten-Service schafft abhilfe. Wir analysieren Ihre Aufgaben und bauen zielgenaue KI Apps, die genau Ihre spezifischen Routineaufgaben erledigen.
+- **Die Prozess- & Fristenüberwachung** — Nie wieder fehlenden Unterlagen hinterherrennen.
+  - Problemstellung: Echte Prozesse stocken, weil externe Zuarbeiten fehlen (z. B. Belege von Klienten, Pläne von Subunternehmern, Selbstauskünfte von Mietern). Das Nachfassen kostet enorm viel Zeit.
+  - Lösung: Eine KI App prüft automatisiert über diverse Schnittstellen (z.B. E-Mail, CRM, ERP, ...) den Status von Kunden- oder Mitarbeiteraufträgen anhand definierter Checklisten. Fehlen Unterlagen, generiert und versendet das System selbstständig höfliche, personalisierte Erinnerungen. Ihr Backoffice wird massiv entlastet.
+- **Der 24/7 Support** — Sofortige Antworten auf Standardfragen.
+  - Problemstellung: Ihr Telefon läutet ständig oder das Postfach quillt über wegen immer gleicher organisatorischer Fragen von Kunden, Partnern oder Patienten.
+  - Lösung: Eine lokale KI App beantwortet technische und organisatorische Routinefragen rund um die Uhr. „In welchem Format muss ich den Antrag einreichen?", „Wo finde ich das Upload-Portal?" oder „Welche Unterlagen muss ich zum Erstgespräch mitbringen?". Ihre strategische und fachliche Beratung bleibt dabei unangetastet beim Menschen.
+
+**Jetzt reservieren:** Sichern Sie sich Ihre AI Station für die geplante Auslieferung ab Q3 2026. Unverbindliche Reservierung – wir melden uns mit den nächsten Schritten. Form: https://forms.gle/UxoRBBrUt8fEBsrn9
+
+## Erfolgsgeschichten
+
+- [Cloud Kosten dauerhaft gesenkt](https://liebhart-consulting.at/de/cloud-cost-optimization/): Beratung & Training. Wie nur 10 Zeilen Source-Code 25k€ / Jahr einsparen können und weitere Maßnahmen zur Optimierung von Cloud- und Softwarearchitektur. Ergebnisse: -150k€ Cloud Kosten / Jahr, Google Cloud Platform, Microsoft Azure.
+  - Hohe Cloud-Kosten sind oft das Ergebnis von schlechten Architekturentscheidungen zu Beginn eines Softwareprojektes. Die Kosten für Infrastruktur wachsen schneller als die generierten Einnahmen und zerstören dadurch das Geschäftsmodell. Hier sind drei konkrete Beispiele für massive Einsparungen.
+- [SaaS-Modell als Umsatzmultiplikator](https://liebhart-consulting.at/de/zero-ops/): Beratung & Entwicklung. Modernisierung einer 10 Jahre alten Anwendung ermöglichte es, 10x mehr Kunden mit gleicher Teamgröße zu bedienen. Ergebnisse: 10x mehr Kunden, Wartungsfreie Infrastruktur, 3x höhere Team-Velocity.
+  - Eine intelligente Architektur lässt jede Software beliebig und vollautomatisch skalieren und verursacht nur Kosten, wenn auch Ihre Kunden sie nutzen. Das Software-as-a-Service (SaaS)-Modell ermöglicht es, mit gleicher Teamgröße 10x mehr Kunden zu bedienen. Zudem wurde bewusst auf eine Betriebsmannschaft verzichtet und mittels Cloud-First-Strategie eine nachhaltige und wartungsfreie ZeroOps-Infrastruktur erschaffen.
+
+## Kontakt & Buchung
+
+- Vereinbaren Sie ein unverbindliches Erstgespräch und wir besprechen, wie ich Sie unterstützen kann.
+- Email: contact@liebhart-consulting.at
+- [Termin buchen](https://calendar.app.google/WXjafe2L6EMspivw6)
+
+## Optional
+
+- [Impressum](https://liebhart-consulting.at/de/impressum/): Pflichtangaben gemäß § 5 ECG und § 25 MedienG für Liebhart Consulting.
+- [Datenschutz](https://liebhart-consulting.at/de/datenschutz/): Datenschutzerklärung gemäß DSGVO für Liebhart Consulting. Informationen zur Datenverarbeitung, Ihren Rechten und Kontaktmöglichkeiten.
+- [Englische Website](https://liebhart-consulting.at/en/): AI & Software projects that work. From architecture to finished product. Consulting, training, and development in custom software development.
+- [llms.txt (multilingual index)](https://liebhart-consulting.at/llms.txt)
+- [sitemap.xml](https://liebhart-consulting.at/sitemap.xml)
